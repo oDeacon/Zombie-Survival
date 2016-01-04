@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 50fab0c8ae195d84eac1941175883845
+labels:
+- code
+- script
+- intellisense
+- hint
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 1
+      settings:
+        DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
